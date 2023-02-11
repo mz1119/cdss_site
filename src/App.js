@@ -36,7 +36,6 @@ function App() {
                     </div>
                 ) : (
                     <div className="empty">
-                        <h2></h2>
                     </div>
                 )
             }

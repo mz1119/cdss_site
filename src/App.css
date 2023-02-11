@@ -16,10 +16,11 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  opacity: 95%;
 }
 
 h1 {
-  padding-top: 10;
+  padding-top: 5rem;
   font-size: 35px;
   letter-spacing: 0.9px;
   background: white;
